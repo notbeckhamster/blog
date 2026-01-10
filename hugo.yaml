@@ -1,4 +1,3 @@
-baseURL: https://blog/
 languageCode: en-us
 title: Beckhamster Blog
 theme: ["PaperMod"]
@@ -6,3 +5,19 @@ caches:
   images:
     dir: :cacheDir/images
 
+params:
+  ShowToc: true
+  homeInfoParams:
+    enabled: true
+    Title: "Hi, I'm Beckham! :)"
+    Content: "Full Stack Developer at Danone. I'm passionate about cybersecurity, certified with HTB CWES and working toward CPTS. Outside of that, I build split keyboards and lift heavy circles (weightlifting)."
+
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/notbeckhamster"
+    - name: "HackTheBox"
+      url: "https://app.hackthebox.com/profile/1380692"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/beckham-wilson-ab841a224/"
+    - name: "email"
+      url: "mailto:notbeckhamster@gmail.com"

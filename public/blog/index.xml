@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Beckhamster Blog</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Beckhamster Blog</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Jan 2026 21:37:49 +1300</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CWES Review: How Pokemon Cards Helped Me Pass the CWES?</title>
+      <link>//localhost:1313/blog/cwes-review/</link>
+      <pubDate>Thu, 08 Jan 2026 21:37:49 +1300</pubDate>
+      <guid>//localhost:1313/blog/cwes-review/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;Introduction
+Setting the scene — what the CWES is and why I took it.
+
+The Price of Admission
+Breaking down the cost: exam attempts, subscriptions, and whether it’s worth it.
+
+Who This Exam Is Really For
+*Why “intermediate” doesn’t mean “beginner” — and the 480-section pre-qual path.*
+
+My Starting Point
+Background prep: PortSwigger labs, HTB machines, and CPTS progress.
+
+The 4-Day Sprint
+*Day 1–2: The 16-hour grind | Day 3: The pack-ripping reset | Day 4: Report &amp;amp; submit*
+Plus: How fast grading really was.
+
+Tips That Actually Helped
+SysReptor for reporting | Building your own lab | And yes, taking a real break.
+
+Final Verdict
+Who should take the CWES? Was it worth the effort? My final recommendation.
+
+Proof &amp;amp; Wrap-Up
+📄 [CWES Certificate] + closing thoughts.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-cwes&#34;&gt;What is CWES&lt;/h3&gt;
+&lt;p&gt;The Certified Web Exploitation Specialist (CWES) is a hands-on web penetration testing certification from HackTheBox.
+It consists of two required parts:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
