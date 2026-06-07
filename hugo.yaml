@@ -4,14 +4,13 @@ theme: ["PaperMod"]
 caches:
   images:
     dir: :cacheDir/images
-
 params:
+  author: Beckham
   ShowToc: true
   homeInfoParams:
     enabled: true
     Title: "Hi, I'm Beckham! :)"
     Content: "Security Consultant at Aura Infosec. Passionate about cybersecurity, certified with HTB CWES and working toward OSCP and HTB CPTS. Outside of that, I build split keyboards, lift heavy circles (weightlifting), running, badminton, and somehow collect both Pokemon and fragrances. Oh, and terrible at chess haha."
-
   socialIcons:
     - name: "Github"
       url: "https://github.com/notbeckhamster"
