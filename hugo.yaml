@@ -10,7 +10,7 @@ params:
   homeInfoParams:
     enabled: true
     Title: "Hi, I'm Beckham! :)"
-    Content: "Full Stack Developer at Danone. I'm passionate about cybersecurity, certified with HTB CWES and working toward CPTS. Outside of that, I build split keyboards and lift heavy circles (weightlifting)."
+    Content: "Security Consultant at Aura Infosec. Passionate about cybersecurity, certified with HTB CWES and working toward OSCP and HTB CPTS. Outside of that, I build split keyboards, lift heavy circles (weightlifting), running, badminton, and somehow collect both Pokemon and fragrances. Oh, and terrible at chess haha."
 
   socialIcons:
     - name: "Github"
@@ -21,3 +21,5 @@ params:
       url: "https://www.linkedin.com/in/beckham-wilson-ab841a224/"
     - name: "email"
       url: "mailto:notbeckhamster@gmail.com"
+    - name: "Instagram"
+      url: "https://www.instagram.com/beckhamsterz/"
