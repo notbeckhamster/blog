@@ -4,7 +4,7 @@
     <title>Tags on Beckhamster Blog</title>
     <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Beckhamster Blog</description>
-    <generator>Hugo -- 0.162.0</generator>
+    <generator>Hugo -- 0.163.3</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
